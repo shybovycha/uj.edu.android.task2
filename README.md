@@ -5,10 +5,11 @@
 Workshop: Mobile Devices Programming - Android
 Jagiellonian University, Institute of Computer Science, 2014
 
-Task: Przemysław Kadela
-Solution: Artem Shoobovych
-Workshop: 2014-10-13
-Group: 4
+**Task:** Przemysław Kadela
+
+**Solution:** Artem Shoobovych
+
+**Workshop:** 2014-10-13
 
 ## Topics
 
